@@ -1,0 +1,2 @@
+In this project, I designed a ASP.NET Web API that performs CRUD operations (Create, Read, Update, and Delete) for a
+Vehicle entity. I deployed a complete version of the app to my Azure account and used the generated URL (http://vehicleserviceapi20161210114738.azurewebsites.net) on the test client successfully.
